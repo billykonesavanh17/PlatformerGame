@@ -5,17 +5,17 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Storage;
 using Microsoft.Xna.Framework.Input;
 
-namespace PlatformerGame
+namespace PlatformerGame.Controller
 {
 	/// <summary>
 	/// This is the main type for your game.
 	/// </summary>
-	public class Game1 : Game
+	public class PlatformerGame : Game
 	{
 		GraphicsDeviceManager graphics;
 		SpriteBatch spriteBatch;
 
-		public Game1 ()
+		public PlatformerGame ()
 		{
 			graphics = new GraphicsDeviceManager (this);
 			Content.RootDirectory = "Content";
