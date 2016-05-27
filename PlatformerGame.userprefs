@@ -1,8 +1,13 @@
 ﻿<Properties StartupItem="PlatformerGame/PlatformerGame.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Controller/PlatformerGame.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Model/Player.cs">
     <Files>
-      <File FileName="PlatformerGame/Controller/PlatformerGame.cs" Line="13" Column="29" />
+      <File FileName="PlatformerGame/Controller/PlatformerGame.cs" Line="17" Column="17" />
+      <File FileName="PlatformerGame/Model/Circle.cs" Line="13" Column="27" />
+      <File FileName="PlatformerGame/Model/Enemy.cs" Line="14" Column="27" />
+      <File FileName="PlatformerGame/Model/Player.cs" Line="16" Column="14" />
+      <File FileName="PlatformerGame/View/Animation.cs" Line="13" Column="26" />
+      <File FileName="PlatformerGame/View/AnimationPlayer.cs" Line="14" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
